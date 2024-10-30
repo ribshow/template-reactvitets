@@ -1,0 +1,18 @@
+{
+  "name": "cra-template-reactvitets",
+  "version": "1.0.0",
+  "description": "Template customized for React Vite TS",
+  "main": "template.json",
+  "keywords": [
+    "create-react-app",
+    "template",
+    "react",
+    "vite",
+    "typescript"
+  ],
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "license": "MIT"
+}
